@@ -20,7 +20,7 @@ By the end of the course, you’ll have a new skill set that’ll make you the g
 •	Introduce a variety of interactive functionality in your data visualizations<br>
 •	Know limitations and caveats of available interactive visualization libraries
 
-# The examples of this title have been implemented in Windows/Mac/Linux operating system.
+<b> The examples of this title have been implemented in Windows/Mac/Linux operating system.</b>
 
 # Software Requirements
 
