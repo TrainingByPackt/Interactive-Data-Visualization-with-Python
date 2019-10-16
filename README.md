@@ -20,21 +20,7 @@ By the end of the course, you’ll have a new skill set that’ll make you the g
 •	Introduce a variety of interactive functionality in your data visualizations<br>
 •	Know limitations and caveats of available interactive visualization libraries
 
-# Hardware Requirements
-
-For the optimal experience, we recommend the following hardware configuration: <br>
-Processors:<br>
-•	Intel® Core™ i5 processor 4300M at 2.60 GHz or 2.59 GHz (1 socket, 2 cores, 2 threads per core), 8 GB of DRAM<br>
-•	Intel® Xeon® processor E5-2698 v3 at 2.30 GHz (2 sockets, 16 cores each, 1 thread per core), 64 GB of DRAM<br>
-•	Intel® Xeon Phi™ processor 7210 at 1.30 GHz (1 socket, 64 cores, 4 threads per core), 32 GB of DRAM, 16 GB of MCDRAM (flat mode enabled)<br>
-Disk space: 2 to 3 GB<br>
-Operating systems: Windows® 10, macOS, and Linux<br>
-
-# Minimum System Requirements
-
-•	Processors: Intel Atom® processor or Intel® Core™ i3 processor<br>
-•	Disk space: 1 GB<br>
-•	Operating systems: Windows* 7 or later, macOS, and Linux
+# The examples of this title have been implemented in Windows/Mac/Linux operating system.
 
 # Software Requirements
 
